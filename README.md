@@ -59,6 +59,7 @@
 - Reduced wait times for ticket extraction from ServiceNow to JIRA using RESTful API, enhancing customer satisfaction and efficiency.
 - Implemented test cases to validate edge cases, and maintain seamless integration between systems.
 - Documented the API integration process, including setup instructions, data mapping schema, and troubleshooting guides.
+![SNow - JIRA](/assets/img/SNowMan.png)
 
 ### Projects
 **Financial Market Forecasting Model**
