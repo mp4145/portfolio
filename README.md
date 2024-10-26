@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS
+#### Technical Skills: <span style="color: blue;">Python, SQL, AWS</span>
 
 ### Education
 - Master of Science | Data Science | Columbia University | (_December 2023_)
@@ -10,7 +10,7 @@
 ### Work Experience
 **Data Analyst @ Columbia University (_October 2022 - Present_)**
 
-*Sentiment Analysis of Courses based on Feedback*
+__*Sentiment Analysis of courses based on student feedback*__
 - I am currently working on conducting sentiment analysis for course feedback forms to identify strengths and areas for enhancement.
 - This analysis will provide actionable insights to improve course delivery and student satisfaction, ensuring a better educational experience.
 
