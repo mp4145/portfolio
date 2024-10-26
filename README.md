@@ -6,9 +6,9 @@
 
 | **Degree**                                    | **Specialization**                                               | **Institution**                         | **Completion Date**      |
 |-----------------------------------------------|------------------------------------------------------------------|----------------------------------------|--------------------------|
-| #### Master of Science          | #### Data Science          | Columbia University                                                | _December 2023_          |
-| #### Bachelor of Engineering | #### Computer Science          | Saveetha Institute of Medical and Technical Sciences               | _September 2021_         |
-| #### Post Graduate Certification**  |#### Artificial Intelligence for Banking and Finance  | Indian Institute of Technology, Roorkee + Wiley Edge                                           | _February 2020_          |
+| Master of Science          | Data Science          | Columbia University                                                | _December 2023_          |
+| Bachelor of Engineering | Computer Science          | Saveetha Institute of Medical and Technical Sciences               | _September 2021_         |
+| Post Graduate Certification  | Artificial Intelligence for Banking and Finance  | Indian Institute of Technology, Roorkee + Wiley Edge                                           | _February 2020_          |
 
 
 ### Work Experience
