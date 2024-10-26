@@ -7,10 +7,19 @@
 - Bachelor of Engineering | Computer Science | Saveetha Institute of Medical and Technical Sciences | (_September 2021_)
 - Post Graduate Certification | Artificial Intelligence for Banking and Finance | Indian Institute of Technology, Roorkee + Wiley Edge | (_February 2020_)
 
+### 📘 Education
+
+| **Degree**                                      | **Institution**                                                    | **Completion Date**     |
+|-------------------------------------------------|--------------------------------------------------------------------|--------------------------|
+| **Master of Science in Data Science**           | Columbia University                                                | _December 2023_          |
+| **Bachelor of Engineering in Computer Science** | Saveetha Institute of Medical and Technical Sciences               | _September 2021_         |
+| **Post Graduate Certification in AI for BFSI**  | IIT Roorkee + Wiley Edge                                           | _February 2020_          |
+
+
 ### Work Experience
 **Data Analyst @ Columbia University (_October 2022 - Present_)**
 
-__*Sentiment Analysis of courses based on student feedback*__
+*Sentiment Analysis of courses based on student feedback*
 - I am currently working on conducting sentiment analysis for course feedback forms to identify strengths and areas for enhancement.
 - This analysis will provide actionable insights to improve course delivery and student satisfaction, ensuring a better educational experience.
 
