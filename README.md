@@ -11,72 +11,42 @@
 | **Post Graduate Certification**  |**Artificial Intelligence for Banking and Finance**  | Indian Institute of Technology, Roorkee + Wiley Edge                                           | _February 2020_          |
 
 
-<div style="background-color:#f9f9f9; padding:15px; border-radius:8px; border:1px solid #ddd;">
-    <table style="width:100%; border-collapse: collapse;">
-        <thead>
-            <tr style="background-color:#2e86c1; color:white;">
-                <th style="padding:10px; text-align:left; font-weight:bold;">Degree</th>
-                <th style="padding:10px; text-align:left; font-weight:bold;">Institution</th>
-                <th style="padding:10px; text-align:left; font-weight:bold;">Completion Date</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr style="border-bottom:1px solid #ddd;">
-                <td style="padding:10px;"><b>Master of Science in Data Science</b></td>
-                <td style="padding:10px;">Columbia University</td>
-                <td style="padding:10px; font-style:italic;">December 2023</td>
-            </tr>
-            <tr style="border-bottom:1px solid #ddd;">
-                <td style="padding:10px;"><b>Bachelor of Engineering in Computer Science</b></td>
-                <td style="padding:10px;">Saveetha Institute of Medical and Technical Sciences</td>
-                <td style="padding:10px; font-style:italic;">September 2021</td>
-            </tr>
-            <tr>
-                <td style="padding:10px;"><b>Post Graduate Certification in AI for BFSI</b></td>
-                <td style="padding:10px;">IIT Roorkee + Wiley Edge</td>
-                <td style="padding:10px; font-style:italic;">February 2020</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-
 ### Work Experience
 **Data Analyst @ Columbia University (_October 2022 - Present_)**
 
-*Sentiment Analysis of courses based on student feedback*
-- I am currently working on conducting sentiment analysis for course feedback forms to identify strengths and areas for enhancement.
-- This analysis will provide actionable insights to improve course delivery and student satisfaction, ensuring a better educational experience.
++ *Sentiment Analysis of courses based on student feedback*
+    - I am currently working on conducting sentiment analysis for course feedback forms to identify strengths and areas for enhancement.
+    - This analysis will provide actionable insights to improve course delivery and student satisfaction, ensuring a better educational experience.
 
-*Data Migration and Optimization*
-- The existing data management system had redundancies, and there was a need for a more organized and user-friendly solution.
-- I migrated data from Google Drive to Airtable, created pre-filled forms for student surveys, tracked courses, and maintained comprehensive faculty profiles.
-- I also established automation for alumni tracking post-graduation.
-- These improvements streamlined data management, reduced redundancy, and enhanced communication regarding course requirements, benefiting both students and faculty.
++ *Data Migration and Optimization*
+    - The existing data management system had redundancies, and there was a need for a more organized and user-friendly solution.
+    - I migrated data from Google Drive to Airtable, created pre-filled forms for student surveys, tracked courses, and maintained comprehensive faculty profiles.
+    - I also established automation for alumni tracking post-graduation.
+    - These improvements streamlined data management, reduced redundancy, and enhanced communication regarding course requirements, benefiting both students and faculty.
 
-*Mentor-Mentee Matchmaking*
-- There was a need to connect students with suitable mentors based on specific preferences and expertise.
-- I collected data on student preferences, including subject matter expertise, experience, and intended industries, and matched these with available alumni willing to mentor.
-- This initiative fostered meaningful connections between students and mentors, enhancing the overall learning and professional development experience.
++ *Mentor-Mentee Matchmaking*
+    - There was a need to connect students with suitable mentors based on specific preferences and expertise.
+    - I collected data on student preferences, including subject matter expertise, experience, and intended industries, and matched these with available alumni willing to mentor.
+    - This initiative fostered meaningful connections between students and mentors, enhancing the overall learning and professional development experience.
 
-*Data-Driven Dashboard Development*
-- I cleaned and organized historical student data and created a Tableau dashboard featuring demographic and geolocation information.
-- This dashboard provided valuable insights that significantly improved admissions rates by enabling targeted marketing strategies primarily based on location.
++ *Data-Driven Dashboard Development*
+    - I cleaned and organized historical student data and created a Tableau dashboard featuring demographic and geolocation information.
+    - This dashboard provided valuable insights that significantly improved admissions rates by enabling targeted marketing strategies primarily based on location.
 
-*Revamping the website*
-- I actively updated faculty profiles, redesigned the website structure to be more user-friendly, and managed updates for events and blog inquiries.
-- The enhanced website attracted more visitors and improved engagement, making it easier for students and prospective students to access important information.
++ *Revamping the website*
+    - I actively updated faculty profiles, redesigned the website structure to be more user-friendly, and managed updates for events and blog inquiries.
+    - The enhanced website attracted more visitors and improved engagement, making it easier for students and prospective students to access important information.
 
-*Events Experience Enhancement*
-- Each semester, the executive program hosts a three-day conference that requires meticulous coordination for a successful in-person gathering.
-- I co-managed RSVPs, facilitated email communication, arranged catering, organized speaker presentations, set up sound systems, coordinated photographs, and managed location arrangements.
-- I also maintained attendee records and collected feedback surveys for analysis.
-- My contributions improved the overall experience for attendees and allowed for actionable insights through sentiment analysis and topic modeling, enhancing future events.
++ *Events Experience Enhancement*
+    - Each semester, the executive program hosts a three-day conference that requires meticulous coordination for a successful in-person gathering.
+    - I co-managed RSVPs, facilitated email communication, arranged catering, organized speaker presentations, set up sound systems, coordinated photographs, and managed location arrangements.
+    - I also maintained attendee records and collected feedback surveys for analysis.
+    - My contributions improved the overall experience for attendees and allowed for actionable insights through sentiment analysis and topic modeling, enhancing future events.
   
-*Data Organization*
-- The program had accumulated vast amounts of raw, disorganized data that hindered efficient access and utilization.
-- I organized the data into structured Excel workbooks, co-established a shared Google Drive for consistent access, and segregated information for students, alumni, faculty, industry affiliates, mentors, and guests.
-- This effort streamlined data access, improved collaboration, and enhanced the ability to retrieve and analyze information efficiently.
++ *Data Organization*
+    - The program had accumulated vast amounts of raw, disorganized data that hindered efficient access and utilization.
+    - I organized the data into structured Excel workbooks, co-established a shared Google Drive for consistent access, and segregated information for students, alumni, faculty, industry affiliates, mentors, and guests.
+    - This effort streamlined data access, improved collaboration, and enhanced the ability to retrieve and analyze information efficiently.
 
 
 **Software Engineer @ Morgan Stanley (Contract) (_October 2022 - Present_)**
