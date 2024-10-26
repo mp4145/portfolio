@@ -24,6 +24,12 @@
 - I also established automation for alumni tracking post-graduation.
 - These improvements streamlined data management, reduced redundancy, and enhanced communication regarding course requirements, benefiting both students and faculty.
 
++ *Data Migration and Optimization*
+    - The existing data management system had redundancies, and there was a need for a more organized and user-friendly solution.
+    - I migrated data from Google Drive to Airtable, created pre-filled forms for student surveys, tracked courses, and maintained comprehensive faculty profiles.
+    - I also established automation for alumni tracking post-graduation.
+    - These improvements streamlined data management, reduced redundancy, and enhanced communication regarding course requirements, benefiting both students and faculty.
+
 *Mentor-Mentee Matchmaking*
 - There was a need to connect students with suitable mentors based on specific preferences and expertise.
 - I collected data on student preferences, including subject matter expertise, experience, and intended industries, and matched these with available alumni willing to mentor.
