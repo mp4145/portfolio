@@ -9,12 +9,17 @@ body {
     background-color: #121212; /* Dark background */
     color: #ffffff; /* White text */
     line-height: 1.6;
+    scroll-behavior: smooth; /* Smooth scrolling */
 }
 
 header {
     background-color: #1e1e1e; /* Slightly lighter dark for header */
     padding: 20px;
     text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
 }
 
 header h1 {
@@ -34,16 +39,28 @@ nav ul li {
 nav ul li a {
     color: #1e90ff; /* Bright blue for links */
     text-decoration: none;
+    transition: color 0.3s; /* Animation on hover */
+}
+
+nav ul li a:hover {
+    color: #00bfff; /* Lighter blue on hover */
+}
+
+main {
+    padding-top: 80px; /* Space for fixed header */
 }
 
 section {
     padding: 40px 20px;
     text-align: center;
+    opacity: 0; /* Start hidden for animation */
+    transform: translateY(20px); /* Slightly lower */
+    transition: opacity 0.6s, transform 0.6s; /* Smooth transition */
 }
 
-section h2 {
-    margin-bottom: 20px;
-    color: #1e90ff; /* Bright blue */
+section.visible {
+    opacity: 1; /* Fully visible */
+    transform: translateY(0); /* Original position */
 }
 
 .portfolio-items {
@@ -59,6 +76,11 @@ section h2 {
     margin: 10px;
     padding: 20px;
     width: 300px;
+    transition: transform 0.3s; /* Animation on hover */
+}
+
+.item:hover {
+    transform: scale(1.05); /* Slightly larger on hover */
 }
 
 footer {
