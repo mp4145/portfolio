@@ -18,6 +18,9 @@
     - I am currently working on conducting sentiment analysis for course feedback forms to identify strengths and areas for enhancement.
     - This analysis will provide actionable insights to improve course delivery and student satisfaction, ensuring a better educational experience.
 
+![Sentiment Icon](assets/sentiment.jpg)
+
+
 + *Data Migration and Optimization*
     - The existing data management system had redundancies, and there was a need for a more organized and user-friendly solution.
     - I migrated data from Google Drive to Airtable, created pre-filled forms for student surveys, tracked courses, and maintained comprehensive faculty profiles.
