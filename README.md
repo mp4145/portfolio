@@ -17,7 +17,6 @@
 *Sentiment Analysis of courses based on student feedback*
 - I am currently working on conducting sentiment analysis for course feedback forms to identify strengths and areas for enhancement.
 - This analysis will provide actionable insights to improve course delivery and student satisfaction, ensuring a better educational experience.
-
 ![Sentiment Analysis](/assets/img/Sentiment_Analysis.png)
 
 *Data Migration and Optimization*
@@ -25,31 +24,36 @@
 - I migrated data from Google Drive to Airtable, created pre-filled forms for student surveys, tracked courses, and maintained comprehensive faculty profiles.
 - I also established automation for alumni tracking post-graduation.
 - These improvements streamlined data management, reduced redundancy, and enhanced communication regarding course requirements, benefiting both students and faculty.
+![Data Migration](/assets/img/Migration.png)
 
 *Mentor-Mentee Matchmaking*
 - There was a need to connect students with suitable mentors based on specific preferences and expertise.
 - I collected data on student preferences, including subject matter expertise, experience, and intended industries, and matched these with available alumni willing to mentor.
 - This initiative fostered meaningful connections between students and mentors, enhancing the overall learning and professional development experience.
+![Mentor Mentee](/assets/img/Mentor-Mentee.png)
 
 *Data-Driven Dashboard Development*
 - I cleaned and organized historical student data and created a Tableau dashboard featuring demographic and geolocation information.
 - This dashboard provided valuable insights that significantly improved admissions rates by enabling targeted marketing strategies primarily based on location.
+![Dashboard](/assets/img/Dashboard.png)
 
 *Revamping the website*
 - I actively updated faculty profiles, redesigned the website structure to be more user-friendly, and managed updates for events and blog inquiries.
 - The enhanced website attracted more visitors and improved engagement, making it easier for students and prospective students to access important information.
+![Website](/assets/img/Web_dev.png)
 
 *Events Experience Enhancement*
 - Each semester, the executive program hosts a three-day conference that requires meticulous coordination for a successful in-person gathering.
 - I co-managed RSVPs, facilitated email communication, arranged catering, organized speaker presentations, set up sound systems, coordinated photographs, and managed location arrangements.
 - I also maintained attendee records and collected feedback surveys for analysis.
 - My contributions improved the overall experience for attendees and allowed for actionable insights through sentiment analysis and topic modeling, enhancing future events.
-  
+![Event Management](/assets/img/Event_Man.png)
+
 *Data Organization*
 - The program had accumulated vast amounts of raw, disorganized data that hindered efficient access and utilization.
 - I organized the data into structured Excel workbooks, co-established a shared Google Drive for consistent access, and segregated information for students, alumni, faculty, industry affiliates, mentors, and guests.
 - This effort streamlined data access, improved collaboration, and enhanced the ability to retrieve and analyze information efficiently.
-
+![Data Organization](/assets/img/Data_Organization.png)
 
 **Software Engineer @ Morgan Stanley (Contract) (_October 2022 - Present_)**
 - Reduced wait times for ticket extraction from ServiceNow to JIRA using RESTful API, enhancing customer satisfaction and efficiency.
