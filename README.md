@@ -18,7 +18,7 @@
     - I am currently working on conducting sentiment analysis for course feedback forms to identify strengths and areas for enhancement.
     - This analysis will provide actionable insights to improve course delivery and student satisfaction, ensuring a better educational experience.
 
-![Sentiment Icon](assets/sentiment.jpg)
+![Sentiment Icon](/assets/img/sentiment.jpg)
 
 
 + *Data Migration and Optimization*
