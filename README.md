@@ -3,17 +3,42 @@
 #### Technical Skills: <span style="color: blue;">Python, SQL, AWS</span>
 
 ### Education
-- Master of Science | Data Science | Columbia University | (_December 2023_)
-- Bachelor of Engineering | Computer Science | Saveetha Institute of Medical and Technical Sciences | (_September 2021_)
-- Post Graduate Certification | Artificial Intelligence for Banking and Finance | Indian Institute of Technology, Roorkee + Wiley Edge | (_February 2020_)
 
-### 📘 Education
-
-| **Degree**                                    | **Specialization**                                               | **Institution**                      | **Completion Date**      |
-|-----------------------------------------------|------------------------------------------------------------------|-------------------------------------|--------------------------|
+| **Degree**                                    | **Specialization**                                               | **Institution**                         | **Completion Date**      |
+|-----------------------------------------------|------------------------------------------------------------------|----------------------------------------|--------------------------|
 | **Master of Science**           | **Data Science**           | Columbia University                                                | _December 2023_          |
 | **Bachelor of Engineering** | **Computer Science**           | Saveetha Institute of Medical and Technical Sciences               | _September 2021_         |
-| **Post Graduate Certification**  |**Artificial Intelligence for Banking and Finance**  | IIT Roorkee + Wiley Edge                                           | _February 2020_          |
+| **Post Graduate Certification**  |**Artificial Intelligence for Banking and Finance**  | Indian Institute of Technology, Roorkee + Wiley Edge                                           | _February 2020_          |
+
+
+<div style="background-color:#f9f9f9; padding:15px; border-radius:8px; border:1px solid #ddd;">
+    <table style="width:100%; border-collapse: collapse;">
+        <thead>
+            <tr style="background-color:#2e86c1; color:white;">
+                <th style="padding:10px; text-align:left; font-weight:bold;">Degree</th>
+                <th style="padding:10px; text-align:left; font-weight:bold;">Institution</th>
+                <th style="padding:10px; text-align:left; font-weight:bold;">Completion Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom:1px solid #ddd;">
+                <td style="padding:10px;"><b>Master of Science in Data Science</b></td>
+                <td style="padding:10px;">Columbia University</td>
+                <td style="padding:10px; font-style:italic;">December 2023</td>
+            </tr>
+            <tr style="border-bottom:1px solid #ddd;">
+                <td style="padding:10px;"><b>Bachelor of Engineering in Computer Science</b></td>
+                <td style="padding:10px;">Saveetha Institute of Medical and Technical Sciences</td>
+                <td style="padding:10px; font-style:italic;">September 2021</td>
+            </tr>
+            <tr>
+                <td style="padding:10px;"><b>Post Graduate Certification in AI for BFSI</b></td>
+                <td style="padding:10px;">IIT Roorkee + Wiley Edge</td>
+                <td style="padding:10px; font-style:italic;">February 2020</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 
 ### Work Experience
