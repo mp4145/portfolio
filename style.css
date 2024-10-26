@@ -1,94 +1,33 @@
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #121212; /* Dark background */
-    color: #ffffff; /* White text */
-    line-height: 1.6;
-    scroll-behavior: smooth; /* Smooth scrolling */
-}
-
-header {
-    background-color: #1e1e1e; /* Slightly lighter dark for header */
-    padding: 20px;
-    text-align: center;
-    position: fixed;
-    width: 100%;
-    top: 0;
-    z-index: 1000;
-}
-
-header h1 {
-    color: #1e90ff; /* Bright blue */
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
-
-nav ul li a {
-    color: #1e90ff; /* Bright blue for links */
-    text-decoration: none;
-    transition: color 0.3s; /* Animation on hover */
-}
-
-nav ul li a:hover {
-    color: #00bfff; /* Lighter blue on hover */
-}
-
-main {
-    padding-top: 80px; /* Space for fixed header */
-}
-
-section {
-    padding: 40px 20px;
-    text-align: center;
-    opacity: 0; /* Start hidden for animation */
-    transform: translateY(20px); /* Slightly lower */
-    transition: opacity 0.6s, transform 0.6s; /* Smooth transition */
-}
-
-section.visible {
-    opacity: 1; /* Fully visible */
-    transform: translateY(0); /* Original position */
-}
-
-.portfolio-items {
+    margin: 0;
+    height: 100vh;
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+    align-items: center;
+    background-color: #121212;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
 }
 
-.item {
-    background-color: #1e1e1e; /* Item background */
-    border: 1px solid #1e90ff; /* Blue border */
-    border-radius: 5px;
-    margin: 10px;
-    padding: 20px;
+#portfolio-container {
     width: 300px;
-    transition: transform 0.3s; /* Animation on hover */
+    height: 300px;
 }
 
-.item:hover {
-    transform: scale(1.05); /* Slightly larger on hover */
-}
-
-footer {
-    background-color: #1e1e1e; /* Footer background */
+#project-details {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
     text-align: center;
-    padding: 20px;
+    opacity: 0.9;
 }
 
-footer a {
-    color: #1e90ff; /* Blue link color */
+h2 {
+    margin: 0;
+}
+
+p {
+    margin: 5px 0;
 }
