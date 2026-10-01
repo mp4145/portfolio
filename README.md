@@ -1,6 +1,6 @@
-# Data Scientist
+# Data, AI & Product
 
-## Updated Portfolio: https://maria-pratyusha.vercel.app/
+#### [Updated Portfolio] (https://maria-pratyusha.vercel.app/)
 
 <!-- 
 
