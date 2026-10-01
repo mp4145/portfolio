@@ -1,5 +1,9 @@
 # Data Scientist
 
+## Updated Portfolio: https://maria-pratyusha.vercel.app/
+
+<!-- 
+
 #### Technical Skills: <span style="color: blue;">Python, SQL, AWS</span>
 
 ### Education
@@ -79,3 +83,4 @@ Performed an in-depth geospatial analysis of chronic diseases in the USA, reveal
 - Organized a Cyber Security and DevOps hackathon at Morgan Stanley.
 - Open Source Contributor for GirlScript Summer of Code to participate in the open-source community.
 
+-->
